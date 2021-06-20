@@ -17,13 +17,15 @@
     </item>
     
     <item>
-      <title>Arjun About</title>
-      <link>https://example.com/arjun-about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/arjun-about/</guid>
-      <description>Arjun Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:</description>
+      <guid>https://example.com/about/</guid>
+      <description>Arjun Uvacha (/ˈɜːʤʊn ʊwɒʧɑː/)
+Arjun Uvacha is a Sanskrit phrase which simply translates to &amp;lsquo;Arjun said&amp;rsquo; or &amp;lsquo;Arjun spoke&amp;rsquo;.
+This phrase gains significance from the Hindu scripture &amp;lsquo;Bhagavad Gita&amp;rsquo;, in which the troubled and curious Arjuna inquires Lord Krishna about what to do before the epic war of Kurukshetra.
+The dialogues between the Lord Krishna (the one imparting the Knowledge) and Arjuna (the one seeking the Knowledge) are exchanged. These dialogues are represented in the scriptures as &amp;lsquo;Krishna Uvacha&amp;rsquo; (Krishna Said&amp;hellip;) and &amp;lsquo;Arjuna Uvacha&amp;rsquo; (Arjuna Said&amp;hellip;).</description>
     </item>
     
     <item>
