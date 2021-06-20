@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cognitive bias on Arjun Uvacha</title>
+    <link>https://example.com/categories/cognitive-bias/</link>
+    <description>Recent content in cognitive bias on Arjun Uvacha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 May 2021 23:10:47 +0530</lastBuildDate><atom:link href="https://example.com/categories/cognitive-bias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Confirmation Bias</title>
+      <link>https://example.com/p/confirmation-bias/</link>
+      <pubDate>Sun, 02 May 2021 23:10:47 +0530</pubDate>
+      
+      <guid>https://example.com/p/confirmation-bias/</guid>
+      <description>Cognitive Biases Cognitive Biases are a set of unwritten guidelines that nudge us to make decisions and take actions. They reduce our mental or intellectual effort to process information and make rational choices. We generally follow them without our awareness and in total submission. We follow them as they reduce our cognitive overload.
+We, very commonly, fall into the trap of these biases as they are easy to follow, reduce the stress and efforts to decide and take an action.</description>
+    </item>
+    
+  </channel>
+</rss>
