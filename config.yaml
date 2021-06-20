@@ -43,8 +43,8 @@ params:
     article:
         math: false
         license:
-            enabled: true
-            default: Licensed under CC BY-NC-SA 4.0
+            enabled: false
+            default: 
 
     comments:
         enabled: true
@@ -98,7 +98,7 @@ params:
     opengraph:
         twitter:
             # Your Twitter username
-            site:
+            site: arjunuvacha_
 
             # Available values: summary, summary_large_image
             card: summary_large_image
