@@ -5,9 +5,11 @@ date: 2021-06-22T00:04:18+05:30
 slug: forer-effect
 image: forer.jpg
 categories:
-    - cognitive bias
-    - product management
     - psychology
+tags: [
+    "cognitive bias",
+    "product management",
+]
 ---
 
 👋🏼 Hello! Thank you for stopping by.

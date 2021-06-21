@@ -5,9 +5,11 @@ date: 2021-06-21T22:54:56+05:30
 slug: ikea-effect
 image: ikea.jpg
 categories:
-    - cognitive bias
-    - product management
     - psychology
+tags: [
+    "cognitive bias",
+    "product management",
+]
 ---
 
 👋🏼 Hello! Thank you for stopping by.

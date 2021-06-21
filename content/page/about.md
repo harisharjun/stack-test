@@ -32,3 +32,5 @@ No matter how easy or difficult the answer is, it is the curiousity and the pere
 Keeping that spirit of curiosity at the center, in this blog, I try and pen down the questions I have asked myself, and others. And if the pursuit of truth is relentless, I think, the answers will follow, and I will add them here.
 
 **Thus the name for this blog!**
+
+**[Continue to the blog...](../)**

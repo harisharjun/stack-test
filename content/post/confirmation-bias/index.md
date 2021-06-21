@@ -5,9 +5,11 @@ date: 2021-05-02T23:10:47+05:30
 slug: confirmation-bias
 image: football.jpg
 categories:
-    - cognitive bias
-    - product management
     - psychology
+tags: [
+    "cognitive bias",
+    "product management",
+]
 ---
 
 ## Cognitive Biases

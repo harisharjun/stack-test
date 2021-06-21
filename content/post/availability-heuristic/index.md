@@ -5,9 +5,11 @@ date: 2021-06-21T23:22:49+05:30
 slug: availability-heuristic
 image: doge.jpg
 categories:
-    - cognitive bias
-    - product management
     - psychology
+tags: [
+    "cognitive bias",
+    "product management",
+]
 ---
 
 👋🏼 Hello! Thank you for stopping by.

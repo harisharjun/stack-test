@@ -5,9 +5,11 @@ date: 2021-06-21T19:55:13+05:30
 slug: fundamental-attribution-error
 image: fae.jpg
 categories:
-    - cognitive bias
-    - product management
     - psychology
+tags: [
+    "cognitive bias",
+    "product management",
+]
 ---
 
 👋🏼 Hello! Thank you for stopping by.
