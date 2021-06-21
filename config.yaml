@@ -35,7 +35,7 @@ params:
 
     sidebar:
         emoji: ✏️
-        subtitle: Arjun Uvacha is a Sanskrit phrase which simply translates to 'Arjun said' or 'Arjun spoke'.
+        subtitle: 💬 a product manager's perspective of everyday things.
         avatar:
             local: true
             src: img/au.png
