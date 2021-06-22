@@ -11,16 +11,19 @@
     <loc>https://stack-test-a41a1.web.app/categories/</loc>
     <lastmod>2021-06-22T00:04:18+05:30</lastmod>
   </url><url>
-    <loc>https://stack-test-a41a1.web.app/categories/cognitive-bias/</loc>
+    <loc>https://stack-test-a41a1.web.app/tags/cognitive-bias/</loc>
     <lastmod>2021-06-22T00:04:18+05:30</lastmod>
   </url><url>
     <loc>https://stack-test-a41a1.web.app/post/</loc>
     <lastmod>2021-06-22T00:04:18+05:30</lastmod>
   </url><url>
-    <loc>https://stack-test-a41a1.web.app/categories/product-management/</loc>
+    <loc>https://stack-test-a41a1.web.app/tags/product-management/</loc>
     <lastmod>2021-06-22T00:04:18+05:30</lastmod>
   </url><url>
     <loc>https://stack-test-a41a1.web.app/categories/psychology/</loc>
+    <lastmod>2021-06-22T00:04:18+05:30</lastmod>
+  </url><url>
+    <loc>https://stack-test-a41a1.web.app/tags/</loc>
     <lastmod>2021-06-22T00:04:18+05:30</lastmod>
   </url><url>
     <loc>https://stack-test-a41a1.web.app/p/framing-effect/</loc>
@@ -49,7 +52,5 @@
     <loc>https://stack-test-a41a1.web.app/categories/cognitive-bias/</loc>
   </url><url>
     <loc>https://stack-test-a41a1.web.app/search/</loc>
-  </url><url>
-    <loc>https://stack-test-a41a1.web.app/tags/</loc>
   </url>
 </urlset>

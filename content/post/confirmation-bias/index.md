@@ -120,12 +120,10 @@ So, the next time, when you think you are sure of something, that you are not bi
 
 ---
 
-Thank you for reading! 🙏🏼
+**Thank you for reading! 🙏🏼**
 
 👍🏼 ➡️ If you liked it, please share it with others who might find it interesting!
 
-💬 Also, please leave your comment or feedback below.
-
-👏🏼 And a couple of claps would make me happy :)
+**💬 Also, please leave your comment or feedback below.**
 
 ---
