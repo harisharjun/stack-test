@@ -12,7 +12,7 @@ tags: [
 ]
 ---
 
-👋🏼 Hello! Thank you for stopping by.
+👋🏼 Hello! Thank you for stopping by!
 
 😀 Please note that this is the fourth in a series of articles I am writing on Cognitive Biases. If you haven’t read the other three yet, I’d recommend you read them first. **Links below:**
 
