@@ -46,3 +46,11 @@ So, whenever you think that you cannot push it anymore, remind yourself that **y
 YOU CAN DO IT!
 
 ---
+
+**Thank you for reading! 🙏🏼**
+
+👍🏼 ➡️ If you liked it, please share it with others who might find it interesting!
+
+**💬 Also, please leave your comment or feedback below.**
+
+---

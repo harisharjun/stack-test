@@ -83,6 +83,10 @@ With these, I leave you with the 7 Habits I read in the book and find useful in 
 
 ---
 
-Thank you for reading!
+**Thank you for reading! 🙏🏼**
 
-Please comment about what you feel about these habits or if you have any suggestions for my writing.
+👍🏼 ➡️ If you liked it, please share it with others who might find it interesting!
+
+**💬 Also, please leave your comment or feedback below.**
+
+---
