@@ -140,10 +140,6 @@ People associate more value to the things that are scarce. A study by Worchel, L
 Another cool point in this context is that the perceived value increases as the product once abundant gradually becomes scarce.
 ##### Example: This is seen in Tele Shopping where products are sold on TV. In this, the product advertised will start with ‘Qty: 1000 available’ and the number is gradually reduced. As the number reduces from 1000 to 700 to 500, the viewers attach more value to the product and tend to place the order.
 
-**The Framing Effect:**\
-The environment in which a product or value is delivered affects the way the value is perceived.
-##### Example: A musician playing in a paid concert will be valued more compared to the same musician playing in a subway for free. Another example, the same wine from a bottle tagged $1,000 will taste better than that from a bottle tagged $100!
-
 **The Anchoring Effect:**
 We get transfixed to something that is shown to us directly. We tend to believe it to be true on instinct and do not notice other things happening around us or question other things — we are too lazy to pay attention or question our instincts.
 ##### Example: You walk into a shopping mall and see the ‘50% Off’ signboard and instinctively go towards that. You rarely question what that 50% Off actually means. In most cases, 50% Off is given as part of a clearance sale on old products or on some other products which you wouldn’t otherwise purchase. The idea here is to get your foot in the door. Once there, the shopkeeper will try and sell other ‘costly’ products to you.
@@ -152,7 +148,13 @@ We get transfixed to something that is shown to us directly. We tend to believe 
 People tend to put more effort to reach a goal if they believe that they have made progress or are making progress towards that goal. It is a phenomenon that increases motivation as people believe that they can achieve the goal.
 ##### Example: To make more people update their profile, Linkedin uses the profile strength progress bar. As you notice that your profile is only 50% complete, you intrinsically yearn to fill in more details and hit a higher number on the progress bar.
 
-Note that some of the examples I mentioned above are not from the book but are my personal examples.
+**The Framing Effect:**\
+The environment in which a product or value is delivered affects the way the value is perceived.
+##### Example: A musician playing in a paid concert will be valued more compared to the same musician playing in a subway for free. Another example, the same wine from a bottle tagged $1,000 will taste better than that from a bottle tagged $100!
+
+Read more about the **Framing effect** [here.](/p/framing-effect)
+
+**Note** that some of the examples I mentioned above are not from the book but are my personal examples.
 
 This brings to the end of the article. Hope you liked it!
 
