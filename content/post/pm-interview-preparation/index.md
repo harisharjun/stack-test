@@ -6,6 +6,10 @@ draft: true
 image: product-interview.jpg
 categories:
     - product management
+tags: [
+    "product management",
+    "interview preparation"
+]
 ---
 
 In 2019, I was in Sales at Treebo, taking care of a couple of regions in the South. While this role was good, I felt I had a strong passion for problem solving and building products. Though I had a desire to move into Product, neither did I have enough courage to make the move nor did I have interest to start preparing for a new role altogether. I knew, I got complacent.
