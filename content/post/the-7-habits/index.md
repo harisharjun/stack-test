@@ -1,5 +1,5 @@
 ---
-title: "The 7 Habits of Highly Effective People"
+title: "The 7 Habits of Highly Effective People - book review"
 description: Be effective, start today!
 date: 2021-06-23T19:57:05+05:30
 image: 7-habits.jpg

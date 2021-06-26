@@ -1,5 +1,5 @@
 ---
-title: "Hooked"
+title: "Hooked - book review"
 description: A must read for every aspiring product manager!
 date: 2021-06-23T20:40:29+05:30
 image: dice.jpg
