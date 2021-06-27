@@ -1,8 +1,7 @@
 ---
 title: "Product Manager Interview Preparation"
 description: How I transitioned from a Sales role to a Product role
-date: 2021-06-27T00:10:28+05:30
-draft: true
+date: 2021-06-27T13:39:38+05:30
 image: product-interview.jpg
 categories:
     - product-management

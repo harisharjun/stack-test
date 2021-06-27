@@ -6,15 +6,14 @@
     <description>Recent content in product management on Arjun Uvacha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jun 2021 20:40:29 +0530</lastBuildDate><atom:link href="https://arjunuvacha.com/tags/product-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Jun 2021 13:39:38 +0530</lastBuildDate><atom:link href="https://arjunuvacha.com/tags/product-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hooked - book review</title>
-      <link>https://arjunuvacha.com/p/hooked-book-review/</link>
-      <pubDate>Wed, 23 Jun 2021 20:40:29 +0530</pubDate>
+      <title>Product Manager Interview Preparation</title>
+      <link>https://arjunuvacha.com/p/product-manager-interview-preparation/</link>
+      <pubDate>Sun, 27 Jun 2021 13:39:38 +0530</pubDate>
       
-      <guid>https://arjunuvacha.com/p/hooked-book-review/</guid>
-      <description>Hooked is one of those books which I would recommend to every aspiring Product Manager. In fact, anyone who is even sparsely connected with human psychology or behaviour should read this. It is a short, quick read and insightful with some clever real-world examples.
-While reading the book, I had collated some important and wow moments in my notepad. I wanted to share them with others and thus this article. Please note that this in no way is the gist of the book!</description>
+      <guid>https://arjunuvacha.com/p/product-manager-interview-preparation/</guid>
+      <description>In 2019, I was in Sales at Treebo, taking care of a couple of regions in the South. While this role was good, I felt I had a strong passion for problem solving and building products. Though I had a desire to move into Product, neither did I have enough courage to make the move nor did I have interest to start preparing for a new role altogether. I knew, I got complacent.</description>
     </item>
     
     <item>
@@ -83,6 +82,16 @@ Please note that this is the second in a series of articles I am writing on Cogn
       <guid>https://arjunuvacha.com/p/confirmation-bias/</guid>
       <description>Cognitive Biases Cognitive Biases are a set of unwritten guidelines that nudge us to make decisions and take actions. They reduce our mental or intellectual effort to process information and make rational choices. We generally follow them without our awareness and in total submission. We follow them as they reduce our cognitive overload.
 We, very commonly, fall into the trap of these biases as they are easy to follow, reduce the stress and efforts to decide and take an action.</description>
+    </item>
+    
+    <item>
+      <title>Hooked - book review</title>
+      <link>https://arjunuvacha.com/p/hooked-book-review/</link>
+      <pubDate>Thu, 04 Mar 2021 20:40:29 +0530</pubDate>
+      
+      <guid>https://arjunuvacha.com/p/hooked-book-review/</guid>
+      <description>Hooked is one of those books which I would recommend to every aspiring Product Manager. In fact, anyone who is even sparsely connected with human psychology or behaviour should read this. It is a short, quick read and insightful with some clever real-world examples.
+While reading the book, I had collated some important and wow moments in my notepad. I wanted to share them with others and thus this article. Please note that this in no way is the gist of the book!</description>
     </item>
     
   </channel>

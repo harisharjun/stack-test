@@ -1,7 +1,7 @@
 ---
 title: "Wait, to not give up"
 description: When waiting is not just letting time pass by, but holding on to it
-date: 2021-06-23T19:27:50+05:30
+date: 2016-09-23T19:27:50+05:30
 image: waiting.jpg
 categories:
     - motivation

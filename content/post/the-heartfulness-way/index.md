@@ -1,6 +1,6 @@
 ---
 title: "The Heartfulness Way"
-date: 2021-06-17T00:34:42+05:30
+date: 2019-01-17T00:34:42+05:30
 categories:
     - book-reviews
 tags: [
