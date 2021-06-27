@@ -5,7 +5,7 @@ date: 2021-06-27T00:10:28+05:30
 draft: true
 image: product-interview.jpg
 categories:
-    - product management
+    - product-management
 tags: [
     "product management",
     "interview preparation"
