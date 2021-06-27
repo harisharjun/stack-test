@@ -1,6 +1,6 @@
 ---
-title: "Product Manager Interview Preparation"
-description: How I transitioned from a Sales role to a Product role
+title: "How to Land a Product Manager Job?"
+description: Learnings from my transition from a Sales role to a Product role. A handy guide for all the aspiring Product Managers
 date: 2021-06-27T13:39:38+05:30
 image: product-interview.jpg
 categories:
