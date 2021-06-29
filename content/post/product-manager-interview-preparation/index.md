@@ -74,7 +74,7 @@ Some sample PM Interview questions:
 ---
 ### PM Preparation Courses
 Some courses which understand your exact need and guide you in the right direction:
-* [PM Interview Prep](https://productinterviewprep.com/?utm_source=ArjunUvacha)
+* **[PM Interview Prep](https://productinterviewprep.com/?utm_source=ArjunUvacha)**
 
 ---
 
