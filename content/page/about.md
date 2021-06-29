@@ -46,5 +46,5 @@ It is rather inconspicuous how our behaviours are shaped. They make us do certai
 
 And here I am, trying my bit to build better products, for **Good!**
 
-### You can find me:
+### Find me on:
 [LinkedIn](https://www.linkedin.com/in/harisharjun/) • [GitHub](https://github.com/harisharjun) • [Twitter](https://twitter.com/arjunuvacha_) •  [Clubhouse](https://clubhouse.com/@arjunuvacha) • [Instagram](https://www.instagram.com/arjunuvacha/)

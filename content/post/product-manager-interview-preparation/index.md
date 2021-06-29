@@ -72,6 +72,11 @@ Some sample PM Interview questions:
 * [PM interview behavioural questions](https://docs.google.com/document/d/1KMeQf5wOsefe6FiDF-9ivbW7oDkgatUb8o7SGRqVDwQ/edit?usp=sharing)
 
 ---
+### PM Preparation Courses
+Some courses which understand your exact need and guide you in the right direction:
+* [PM Interview Prep](https://productinterviewprep.com/?utm_source=ArjunUvacha)
+
+---
 
 ### Product Communities to join
 Product Communities were the best thing that happened to me in my entire journey. They were my saviour. The folks in these communities help each other and the overall guidance and support you get is priceless. From helping you get started with your first interview to brainstorming a complex feature building exercise, you will get everything here.
