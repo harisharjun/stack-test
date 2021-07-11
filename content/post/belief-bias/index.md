@@ -11,6 +11,19 @@ tags: [
     "cognitive bias"
 ]
 ---
+👋🏼 Hello! Thank you for stopping by.
+
+😀 Please note that this is the sixth in a series of articles I am writing on Cognitive Biases. If you haven’t read the other five yet, I’d recommend you read them first. **Links below:**
+
+1. [Confirmation Bias](/p/confirmation-bias) ✅
+2. [Fundamental Attribution Error](/p/fundamental-attribution-error) ✅
+3. [Ikea effect](/p/ikea-effect) ✅
+4. [Availability Heuristic](/p/availability-heuristic) ✅
+5. [Framing effect](/p/framing-effect) ✅
+6. [Forer effect](/p/forer-effect)
+---
+
+Let's get started with this one!
 
 **Let’s go back to the 1600s for a while.**
 
