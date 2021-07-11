@@ -13,7 +13,7 @@ tags: [
 ---
 👋🏼 Hello! Thank you for stopping by.
 
-😀 Please note that this is the sixth in a series of articles I am writing on Cognitive Biases. If you haven’t read the other five yet, I’d recommend you read them first. **Links below:**
+😀 Please note that this is the seventh in a series of articles I am writing on Cognitive Biases. If you haven’t read the other six yet, I’d recommend you read them first. **Links below:**
 
 1. [Confirmation Bias](/p/confirmation-bias) ✅
 2. [Fundamental Attribution Error](/p/fundamental-attribution-error) ✅
